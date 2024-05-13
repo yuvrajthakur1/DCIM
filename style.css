@@ -39,7 +39,8 @@ body{
 /* Home Page Banner Section */
 .video-container {
     position: relative;
-    height: 50vh;
+    width: 100vw;
+    height: 100vh;
     overflow: hidden;
 }
 

@@ -2,9 +2,16 @@
 
 
 
+body
+{
+    background-color: #DCF2F1;
+    color: #0F1035;
+}
+
 .navbar
 {
     background-color: transparent;
 }
+
 
 

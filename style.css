@@ -67,13 +67,22 @@ body{
 
 
 
-#home-images
+.home-images
 {
     background-color: #0F1035;
 }
 
-#home-para
+.home-para
 {
     font-size: large;
+}
+
+
+@media only screen and (min-width:990px) and (max-width:1150px)
+{
+    .home-images
+    {
+
+    }
 }
 /* Home Page Banner Section */

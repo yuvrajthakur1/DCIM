@@ -47,6 +47,8 @@ body{
     }
 }
 
+
+
 /* Nav */
 
 
@@ -100,3 +102,10 @@ body{
     }
 }
 /* Home Page Banner Section */
+
+
+.home-card-btn
+{
+    background-color:#0F1035 ;
+    color: #DCF2F1;
+}

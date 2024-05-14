@@ -76,6 +76,12 @@ body{
 .home-para
 {
     font-size: large;
+    text-align: justify;
+}
+
+.home-heading
+{
+    text-align: justify;
 }
 
 

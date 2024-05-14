@@ -69,6 +69,12 @@ body
   z-index: 1000;
 }
 
+
+
+a:hover
+{
+    border-bottom: 2px solid rgb(1, 6, 66);
+}
 /* Nav */
 
 

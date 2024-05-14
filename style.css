@@ -18,8 +18,7 @@ body
 #nav-style
 {
     background-color: transparent;
-    margin-top: 0.8rem;
-    margin-bottom: 0.8rem;
+    
 }
 
 #nav-logo
@@ -92,7 +91,7 @@ a:hover
     align-items: center;
     justify-content: center;
     z-index: 100;
-    margin-top: 5rem;
+    
 }
 .banner-text {
     background-color: rgba(0, 0, 0, 0.5);

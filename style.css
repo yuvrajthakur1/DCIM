@@ -46,10 +46,8 @@ body
 
 
 .navbar-nav {
-    
-    padding-left: 170px;
-    gap: 10px;
-    
+    padding-left: 150px;
+    gap: 20px;
 }
 
 @media only screen and (min-width: 1210px) {

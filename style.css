@@ -45,6 +45,12 @@ body
 }
 
 
+.navbar-nav {
+    
+    padding-left: 170px;
+    
+}
+
 @media only screen and (min-width: 1210px) {
     .navbar-expand-xl {
         flex-wrap: nowrap;

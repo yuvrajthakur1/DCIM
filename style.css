@@ -55,7 +55,8 @@ body
     }
     .home-para
 {
-    line-height: 20px;
+    line-height: 30px;
+    font-size: larger;
 }
 }
 

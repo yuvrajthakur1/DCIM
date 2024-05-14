@@ -40,6 +40,12 @@ body{
         flex-wrap: nowrap;
         justify-content: flex-start;
     }
+    
+    .home-heading
+{
+    text-align: justify;
+    font-size: xx-large;
+}
 }
 
 /* Nav */

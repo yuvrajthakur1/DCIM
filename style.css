@@ -82,7 +82,7 @@ a:hover
 
 .banner {
     position: relative;
-    height: 50vh; /* Adjust the height as needed */
+    height: 70vh; /* Adjust the height as needed */
     background-size: cover;
     background-position: center;
     color: #fff;
@@ -91,6 +91,7 @@ a:hover
     align-items: center;
     justify-content: center;
     z-index: 100;
+    margin-top: 5rem;
     
 }
 .banner-text {

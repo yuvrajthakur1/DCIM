@@ -142,5 +142,32 @@ a:hover
 
 /* Home and about ends */
 
+
+
+
+
 /* Careers In DCIM Section styling Starts */
+
+.opportunities-box
+{
+            background: #DCF2F1; /* Transparent white background */
+            backdrop-filter: blur(10px); /* Apply blur effect */
+            border-radius: 10px;
+            color: #0F1035;
+            font-weight: 700;
+            text-align: center;
+            box-shadow: rgba(54, 54, 54, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+            transition: transform 0.3s ease;
+}
+
+
+.opportunities-box:hover
+{
+    transform: scale(1.1);
+}
+
+
+
+
+/* Carees in DCIM styling done */
 

@@ -181,5 +181,17 @@ a:hover
     
 }
 
+
+/* Special container */
+
+
+.big-container
+{
+    background-color: #7FC7D9; 
+    padding: 50px; 
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
 /* Carees in DCIM styling done */
 

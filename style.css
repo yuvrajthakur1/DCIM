@@ -168,6 +168,10 @@ a:hover
 }
 
 
+.circular-img
+{
+    border-radius: 50%;
+}
 
 
 /* Carees in DCIM styling done */

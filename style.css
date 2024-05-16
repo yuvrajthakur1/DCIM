@@ -154,10 +154,11 @@ a:hover
             backdrop-filter: blur(10px); /* Apply blur effect */
             border-radius: 10px;
             color: #0F1035;
-            font-weight: 700;
+            font-weight: 600;
             text-align: center;
             box-shadow: rgba(54, 54, 54, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
-            margin-top: 5rem;
+            margin-top: 4rem;
+            line-height: 30px;
 }
 
 
@@ -176,8 +177,9 @@ a:hover
 .opportunities-box ul li
 {
 
-    padding: 15px;
-    margin-left: 15px;
+    padding: 5px;
+    margin-left: 3px;
+    line-height: 30px;
     
 }
 

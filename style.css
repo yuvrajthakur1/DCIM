@@ -114,6 +114,7 @@ a:hover
 {
     font-size: medium;
     text-align: justify;
+    font-weight: 500;
 }
 
 
@@ -122,6 +123,7 @@ a:hover
     text-align: justify;
     font-size: x-large; 
     text-decoration: underline;
+    font-weight: 700;
 }
 
 @media only screen and (min-width:768px)

@@ -84,7 +84,7 @@ a:hover
 
 .banner {
     position: relative;
-    height: 50vh; /* Adjust the height as needed */
+    height: 80vh; /* Adjust the height as needed */
     background-size: cover;
     background-position: center;
     color: #fff;

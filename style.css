@@ -116,13 +116,27 @@ a:hover
     text-align: justify;
 }
 
+
 .home-heading
 {
     text-align: justify;
-    font-size: xx-large;
-    background-color: #7FC7D9;
-    border-radius: 50px;
+    font-size: xx-large; 
+}
+
+@media only screen and (min-width:768px)
+{
+    .home-heading
+{
     
+    font-size: x-large; 
+}
+
+.home-para
+{
+    font-size:medium;
+   
+}
+
 }
 
 

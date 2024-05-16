@@ -112,7 +112,7 @@ a:hover
 
 .home-para
 {
-    font-size: large;
+    font-size: medium;
     text-align: justify;
 }
 
@@ -120,7 +120,7 @@ a:hover
 .home-heading
 {
     text-align: justify;
-    font-size: xx-large; 
+    font-size: x-large; 
 }
 
 @media only screen and (min-width:768px)
@@ -128,12 +128,12 @@ a:hover
     .home-heading
 {
     
-    font-size: x-large; 
+    font-size: xx-large; 
 }
 
 .home-para
 {
-    font-size:medium;
+    font-size:large;
    
 }
 

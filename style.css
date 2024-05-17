@@ -237,6 +237,7 @@ a:hover
     overflow: hidden;
     max-width: 100%;
     background: #000;
+    margin-top: 2.5rem;
   }
   .video-container video {
     position: absolute;
